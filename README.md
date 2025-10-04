@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**avinashry/avinashry** is a ✨ _special_ ✨ place to know me as  professional 
+**This** is a ✨ _special_ ✨ place to know me as IT professional. 
 
 **Introduction**
 
