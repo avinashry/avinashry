@@ -18,7 +18,20 @@ but suitable and effective within the given business and architectural environme
 
 **Challenging Assignment – Hobby Project**
 
+
 While the following points cover the scope of my work, the descriptions are kept at a high level to avoid disclosing any specific client or project details.
+
+**ChatGPT single agent POC**
+
+ChatGPT as PA that can book your agenda.
+
+[GitHub Repository link ](avinashry/chatgpt_as_personal_assistant)
+
+**Custom UI logger**
+
+This code is part of project Observability (Front-end Code Observability), specially to use for fronend if you are not thinking to go for Observability product.
+
+[GitHub Repository link ](/avinashry/custom-ui-logger)
 
 **Clean Up Drive**
 
@@ -35,3 +48,31 @@ I have built complete backend API using AWS cloud infrastructure. This was not a
  ![plot](./image/cleanupproject.jpg)
 
 </details>
+
+**Assignment – Grafana dashboard**
+
+This is small POC that includes creating Grafana monitoring board using influx data base. 
+
+<details>
+
+<summary>Project high level Overview</summary>
+
+ ![plot](./image/GrafanaInflux.jpg)
+
+</details>
+
+
+**Assignment- Adapter for airport parking system** 
+
+This Adaptor is mean to transform protocal
+The parking system protocol is not suitable to direct communication with Airport authority system which uses soap protocol. 
+The adapter must be able to convert soap message to xml base parking system protocol and vice versa and must assure no message loss and failover feature.   
+
+<details>
+
+<summary>Project high level Overview</summary>
+
+ ![plot](./image/adapter.jpg)
+
+</details>
+
