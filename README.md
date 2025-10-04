@@ -16,18 +16,18 @@ My core strength is my ability to act as both a strategic individual contributor
 but suitable and effective within the given business and architectural environment.
 
 
-**Challenging Assignment – Hobby Project**
+**Hobby Projects/ Challenging Assignment**
 
 
 While the following points cover the scope of my work, the descriptions are kept at a high level to avoid disclosing any specific client or project details.
 
-**ChatGPT single agent POC**
+**ChatGPT single agent POC (Hobby Project)**
 
 ChatGPT as PA that can book your agenda.
 
 [GitHub Repository link ](avinashry/chatgpt_as_personal_assistant)
 
-**Custom UI logger**
+**Custom UI logger (Hobby Project)**
 
 This code is part of project Observability (Front-end Code Observability), specially to use for fronend if you are not thinking to go for Observability product.
 
