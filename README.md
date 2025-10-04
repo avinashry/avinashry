@@ -32,6 +32,6 @@ I have built complete backend API using AWS cloud infrastructure. This was not a
 
 <summary>Project high level Overview</summary>
 
- ![plot](./image/cleanupproject)
+ ![plot](./image/cleanupproject.jpg)
 
 </details>
